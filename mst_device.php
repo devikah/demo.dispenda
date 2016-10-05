@@ -47,8 +47,10 @@ include "navi.php";
                 </div>
                 <div class="col-sm-8">
                     <div class="title-action">
+<!--
 					<small>Didukung oleh</small>
                         <img alt="image" src="img/Logo-Bank-Riau-Kepri-transparent-bg.png" width='280' height='50' align='center'/>
+-->
                     </div>
                 </div>
             </div>
@@ -107,7 +109,7 @@ include "navi.php";
             <div class="footer">
                
                 <div>
-                    <strong>Copyright</strong> LuxTax &copy; 2016
+                    <strong>Copyright</strong> E-Tax &copy; 2016
                 </div>
             </div>
 

@@ -2,13 +2,13 @@
 <html>
 
 
-<!-- Mirrored from webapplayers.com/inspinia_admin-v2.0/form_advanced.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Apr 2015 10:53:05 GMT -->
+
 <head>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Tax Monitoring System | Dashboard</title>
+    <title>E-Tax | Laporan Harian</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.css" rel="stylesheet">
@@ -51,10 +51,13 @@
                 </ol>
             </div>
             <div class="col-sm-8">
+			<!--
                 <div class="title-action">
                                <small>Didukung oleh</small>
                     <img alt="image" src="img/Logo-Bank-Riau-Kepri-transparent-bg.png" width='280' height='50' align='center'/>
                 </div>
+				-->
+
             </div>
         </div>
 
@@ -130,11 +133,9 @@
  
             </div> <!-- row -->             
         </div>
-        <div class="footer">
-                <div>
-                    <strong>Copyright</strong> LuxTax &copy; 2016
-                </div>
-        </div>
+        <?php
+include "footer.php";
+?>
 
         </div>
                     </div>
@@ -421,5 +422,5 @@
 </body>
 
 
-<!-- Mirrored from webapplayers.com/inspinia_admin-v2.0/form_advanced.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Apr 2015 10:53:15 GMT -->
+
 </html>

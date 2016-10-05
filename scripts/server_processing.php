@@ -19,7 +19,7 @@
  */
  
 // DB table to use
-$table = 'v_livetraffic';
+$table = 'v_livetraffic3';
  
 // Table's primary key
 $primaryKey = 'tgltransaksi';
@@ -32,7 +32,8 @@ $columns = array(
     array( 'db' => 'nostruk', 'dt' => 2 ),
     array( 'db' => 'deviceid',  'dt' => 0 ),
     array( 'db' => 'msisdn',   'dt' => 1 ),
-    array( 'db' => 'jumlah',     'dt' => 4 ),
+    array( 'db' => 'jumlah',   'dt' => 4 ),
+    array( 'db' => 'pajak',     'dt' => 5 ),
     array(
         'db'        => 'tgltransaksi',
         'dt'        => 3,

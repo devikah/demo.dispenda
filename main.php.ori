@@ -104,7 +104,7 @@ include "navi.php";
                         <th>NoStruk</th>
 						<th>TglTransaksi</th>
                         <th>Jumlah</th>
-			<th>Pajak</th>
+
                       </tr>
                     </thead>
                     
@@ -115,7 +115,6 @@ include "navi.php";
                         <th>NoStruk</th>
 						<th>TglTransaksi</th>
                         <th>Jumlah</th>
-			<th>Pajak</th>
                       </tr>
                     </tfoot>
                   </table>
